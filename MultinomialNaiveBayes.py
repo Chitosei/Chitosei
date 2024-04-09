@@ -60,13 +60,13 @@ class MultinomialNaiveBayes():
     
     pass
 ## Import data
+## Sourse kaggle: https://www.kaggle.com/datasets/lakshmi25npathi/images
 
-file_path = r'D:\Download\archive\youtube-spam-collection-v1'
-data_1 = pd.read_csv(file_path + '\Youtube01-Psy.csv')
-data_2 = pd.read_csv(file_path + '\Youtube02-KatyPerry.csv')
-data_3 = pd.read_csv(file_path + '\Youtube03-LMFAO.csv')
-data_4 = pd.read_csv(file_path + '\Youtube04-Eminem.csv')
-data_5 = pd.read_csv(file_path + '\Youtube05-Shakira.csv')
+data_1 = pd.read_csv('Youtube01-Psy.csv')
+data_2 = pd.read_csv('Youtube02-KatyPerry.csv')
+data_3 = pd.read_csv('Youtube03-LMFAO.csv')
+data_4 = pd.read_csv('Youtube04-Eminem.csv')
+data_5 = pd.read_csv('Youtube05-Shakira.csv')
 os.system('cls')
 
 data_total = pd.DataFrame()
