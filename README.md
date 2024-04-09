@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @Chitosei
-- 👀 I’m interested in: Coding and game... (i guess)
+
+- 👋 Hi, I’m @Chitosei,  I just start using github
+- 👀 I’m interested in: Coding and game... (I guess)
 - 🌱 I’m currently learning: ML and CV
 - 📫 How to reach me: choiayatsuji@gmail.com
 - 😄 Pronouns: idk :>
